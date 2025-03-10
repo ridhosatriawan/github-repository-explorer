@@ -34,8 +34,8 @@ npm install -g pnpm
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/github-explorer.git
-cd github-explorer
+git clone https://github.com/ridhosatriawan/github-repository-explorer.git
+cd github-repository-explorer
 ```
 
 ### Install Dependencies
@@ -53,7 +53,7 @@ pnpm dev
 ## Deployment
 
 The application is deployed and accessible at:
-🔗 [Live Demo](https://your-deployment-url.com/)
+🔗 [Live Demo](https://github-repository-explorer.satriawans.xyz/)
 
 ## Usage
 
